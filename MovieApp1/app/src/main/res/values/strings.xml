@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MovieRockerzz</string>
+    <string name="back_drop_path">BACK_DROP_PATH</string>
+    <string name="title">TITLE</string>
+    <string name="synopsis">SYNOPSIS</string>
+    <string name="rating">RATING</string>
+    <string name="release_date">RELEASE_DATE</string>
+    <string name="language">LANGUAGE</string>
+    <string name="title_tv">Title</string>
+    <string name="rating_tv">Rating:</string>
+    <string name="release_date_tv">Release Date</string>
+    <string name="language_tv">Language</string>
+    <string name="synopsis_tv">Synopsis</string>
+    <string name="id">ID</string>
+    <string name="add_to_favourite">Add to favourite</string>
+    <string name="title_original">TITLE_ORIGINAL</string>
+    <string name="poster_path">POSTER_PATH</string>
+    <string name="reviews_tv">Reviews</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="redirecting_fav">Redirecting to favorites</string>
+    <string name="json_results">results</string>
+    <string name="json_vote_count">vote_count</string>
+    <string name="json_id">id</string>
+    <string name="json_video">video</string>
+    <string name="json_vote_average">vote_average</string>
+    <string name="json_title">title</string>
+    <string name="json_popularity">popularity</string>
+    <string name="json_poster_path">poster_path</string>
+    <string name="json_original_language">original_language</string>
+    <string name="json_original_title">original_title</string>
+    <string name="json_backdrop_path">backdrop_path</string>
+    <string name="json_adult">adult</string>
+    <string name="json_overview">overview</string>
+    <string name="json_release_date">release_date</string>
+    <string name="added_fav">Added to favourites</string>
+    <string name="json_iso6391">iso_639_1</string>
+    <string name="json_iso31661">iso_3166_1</string>
+    <string name="json_site">site</string>
+    <string name="json_size">size</string>
+    <string name="json_type">type</string>
+    <string name="json_key">key</string>
+    <string name="json_name">name</string>
+    <string name="json_author">author</string>
+    <string name="json_content">content</string>
+    <string name="json_url">url</string>
+    <string name="network">Network failure</string>
+    <string name="deleted">Deleted rows:</string>
+    <string name="noFav">No Favorites</string>
+
+</resources>
+
